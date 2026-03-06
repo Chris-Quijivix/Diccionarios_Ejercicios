@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios", "Diccionarios\Diccionarios.csproj", "{ACAD88F8-052E-4EE8-955B-D5996C9A1E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios2", "Diccionarios2\Diccionarios2.csproj", "{A70306B8-3ABD-409B-BBA1-688688F4FFB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAD88F8-052E-4EE8-955B-D5996C9A1E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAD88F8-052E-4EE8-955B-D5996C9A1E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAD88F8-052E-4EE8-955B-D5996C9A1E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAD88F8-052E-4EE8-955B-D5996C9A1E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70306B8-3ABD-409B-BBA1-688688F4FFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70306B8-3ABD-409B-BBA1-688688F4FFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70306B8-3ABD-409B-BBA1-688688F4FFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70306B8-3ABD-409B-BBA1-688688F4FFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557A2511-916C-45E9-BB4F-653A97137888}
+	EndGlobalSection
+EndGlobal
