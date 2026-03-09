@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios5", "Diccionari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios6", "Diccionarios6\Diccionarios6.csproj", "{8C03A2B0-A8C9-4B0A-97E5-E17734A8F03B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios7", "Diccionarios7\Diccionarios7.csproj", "{02C5EB25-6629-462F-90CF-6ABAF3FBDB4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8C03A2B0-A8C9-4B0A-97E5-E17734A8F03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C03A2B0-A8C9-4B0A-97E5-E17734A8F03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C03A2B0-A8C9-4B0A-97E5-E17734A8F03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C5EB25-6629-462F-90CF-6ABAF3FBDB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C5EB25-6629-462F-90CF-6ABAF3FBDB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C5EB25-6629-462F-90CF-6ABAF3FBDB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C5EB25-6629-462F-90CF-6ABAF3FBDB4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
