@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios01", "Diccionarios\Diccionarios01.csproj", "{ACAD88F8-052E-4EE8-955B-D5996C9A1E03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios2", "Diccionarios2\Diccionarios2.csproj", "{A70306B8-3ABD-409B-BBA1-688688F4FFB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios02", "Diccionarios2\Diccionarios02.csproj", "{A70306B8-3ABD-409B-BBA1-688688F4FFB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios3", "Diccionarios3\Diccionarios3.csproj", "{EF9E2A3C-E315-48D2-B0DB-0A54E0B30A5D}"
 EndProject
